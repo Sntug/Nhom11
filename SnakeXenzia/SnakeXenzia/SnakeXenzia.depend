@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1711877157 source:d:\snakexenzia\snakexenzia\src\mylib.cpp
+	<stdio.h>
+	<conio.h>
+	<ctime>
+	"windows.h"
+
+1711955210 source:d:\snakexenzia\snakexenzia\main.cpp
+	<iostream>
+	"mylib.h"
+	"drawwall.h"
+	"drawSnake.h"
+	"SnakeProcessing.h"
+	"gameover.h"
+	"Menu.h"
+
+1711957835 d:\snakexenzia\snakexenzia\include\mylib.h
+	<stdio.h>
+	<conio.h>
+	<ctime>
+	"windows.h"
+
+1711877183 d:\snakexenzia\snakexenzia\mylib.h
+	<stdio.h>
+	<conio.h>
+	<ctime>
+	"windows.h"
+
+1711984311 d:\snakexenzia\snakexenzia\drawwall.h
+	<iostream>
+	"mylib.h"
+
+1711984311 d:\snakexenzia\snakexenzia\drawsnake.h
+
+1711901864 d:\snakexenzia\snakexenzia\snakeprocessing.h
+
+1711897292 d:\snakexenzia\snakexenzia\gameover.h
+
+1711899486 d:\snakexenzia\snakexenzia\fruit.h
+
+1711902617 d:\snakexenzia\snakexenzia\menu.h
+
+1711897651 d:\snakexenzia\snakexenzia\include\drawwall.h
+	<iostream>
+	"mylib.h"
+
+1711897596 d:\snakexenzia\snakexenzia\include\drawsnake.h
+
+1711901864 d:\snakexenzia\snakexenzia\include\snakeprocessing.h
+
+1711897292 d:\snakexenzia\snakexenzia\include\gameover.h
+
+1711902617 d:\snakexenzia\snakexenzia\include\menu.h
+
